@@ -10,7 +10,7 @@ Access the repository and install dependances .
 ```
 $ cd admin-gestion
 $ npm install
-
+```
 Start codeigniter server.
 ```
 $ php spark serve
