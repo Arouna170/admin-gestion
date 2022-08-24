@@ -1,0 +1,32 @@
+{
+  "name": "tls",
+  "version": "1.0.0",
+  "description": "## What is CodeIgniter?",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx mix watch"
+  },
+  "keywords": [],
+  "author": "Arouna Hafiz",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.2",
+    "@fortawesome/free-brands-svg-icons": "^6.1.2",
+    "@fortawesome/free-regular-svg-icons": "^6.1.2",
+    "@fortawesome/free-solid-svg-icons": "^6.1.2",
+    "@fortawesome/vue-fontawesome": "^2.0.8",
+    "primevue": "^2.9.2",
+    "vue": "^2.7.9",
+    "vue-router": "^3.6.0",
+    "vuejs-datatable": "^2.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.49",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.7.9"
+  }
+}

@@ -1,0 +1,66 @@
+.btn-success {
+    color: #fff;
+    background-color: #06155cbd;
+    border-color: #06155c;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #06155cbd;
+    border-color: #06155c;
+}
+.btn-success:focus {
+    color: #fff;
+    background-color: #06155cbd;
+    border-color: #06155c;
+}
+.bg-register{
+    background: url(../image/tls-logo.png);
+    background-position: center;
+    background-size: 394px;
+    background-repeat: no-repeat;
+}
+.navbar-header {
+    background-color: #052552db;
+}
+
+.bg-login {
+    background: url(../image/tls-logo.png);
+    background-position: center;
+    background-size: 394px;
+    background-repeat: no-repeat;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #06155cbd;
+    border-color: #06155c;
+}
+.btn-primary:hover{
+    color: #fff;
+    background-color: #06155cbd;
+    border-color: #06155c;
+}
+.btn-primary:focus {
+    color: #fff;
+    background-color: #06155cbd;
+    border-color: #06155c;
+}
+.text-center {
+    text-align: center !important;
+    margin: 45px;
+}
+.menu-title {
+    font-size: 16px;
+}
+.sidebar-menu ul li a {
+    font-size: 15.5px;
+}
+.btn-creer{
+    padding: 12px 20px !important;
+    letter-spacing: .05em;
+    pointer-events: none;
+    cursor: default;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: #747a80;
+    font-weight: 700;
+}
