@@ -17,4 +17,5 @@ $ php spark serve
 ```
 ## Screenshoot
 
-![Dashboard Page ](screenshort/screnshort_1.png "Drawing something")
+![Dashboard Page ](https://github.com/Arouna170/admin-gestion/blob/main/screenshort/screnshort_1.PNG "Accueil Page")
+![Category Page ](https://github.com/Arouna170/admin-gestion/blob/main/screenshort/screenshort_2.PNG "Category Page")
