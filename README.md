@@ -4,9 +4,9 @@ This is template dashboard in vue 2 and codeigniter 4.
 # Installation
 Clone the repository.
 ```
-$ git clone https://github.com/keen/dashboards.git
+$ git clone https://github.com/Arouna170/admin-gestion.git
 ```
-Access the repository and build your Docker image.
+Access the repository and install .
 ```
-$ cd dashboards
-$ docker build -t keen/dashboards .
+$ cd admin-gestion
+$ npm install .
